@@ -2,7 +2,7 @@
 A game of tag played by two AI's trained via reinforcement learning which will develop as you run the simulation
 
 
-IMPORT THESE MODULES
+IMPORT THESE MODULES BEFORE ATTEMPTING TO RUN
 
 import numpy as np
 import torch
