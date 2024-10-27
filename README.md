@@ -4,7 +4,7 @@ A game of tag played by two AI's trained via reinforcement learning which will d
 
 IMPORT THESE MODULES BEFORE ATTEMPTING TO RUN
 
-import numpy as np
+import numpy as np /n
 import torch
 import torch.nn as nn
 import torch.optim as optim
